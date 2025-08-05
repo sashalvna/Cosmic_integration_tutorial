@@ -1,2 +1,4 @@
-# Cosmic_integration_tutorial
-Tutorial for COMPAS cosmic integration 
+# Cosmic Integration tutorial
+Tutorial for COMPAS cosmic integration.
+
+This tutorial was made for the GW Paleontology Group Meeting on Cosmic Integration, based off of the CHE COMPAS tutorial (https://compas.readthedocs.io). Currently, it is made to work with the CHE dataset that can be downloaded from https://zenodo.org/records/5595426. As this dataset was made with an older version of COMPAS, the naming conventions do not match more recent version of COMPAS, and so I included the necessary COMPAS scripts that are required to run the tutorial. If you're using a more recent dataset produced using a more recent COMPAS version, you can replace the Python files with "tutorial" in their name with more recent COMPAS ones, or just run the Jupyter notebook from the COMPAS cosmic_integration directory (https://github.com/TeamCOMPAS/COMPAS/tree/dev/compas_python_utils/cosmic_integration).
