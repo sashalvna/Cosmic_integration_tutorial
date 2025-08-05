@@ -8,7 +8,6 @@ __pycache__/
 *.jpg
 *.jpeg
 *.pdf
-*.hdf5
 *.h5
 
 # C extensions
